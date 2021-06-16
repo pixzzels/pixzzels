@@ -4,3 +4,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixzzels&layout=compact" />
 </a>
+
+<br></br>
+
+![](https://komarev.com/ghpvc/?username=pixzzels&style=flat&color=ff858a)
