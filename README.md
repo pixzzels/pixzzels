@@ -1,4 +1,5 @@
 <h2> Hey there :) </h2>
+<p>I am a highly creative and motivated full-stack software developer with a passion for learning and trying new things (:</p>
 <h3> Technologies </h3>
 <p align="left">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
