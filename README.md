@@ -18,13 +18,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="redux" width="50" height="50">
 </p>
 <br></br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pixzzels&hide=prs,issues&count_private=true&show_icons=true&theme=dracula" />
-</a>
+</a> -->
 
-<a href="https://github.com/anuraghazra/convoychat">
+<!-- <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixzzels&layout=compact" />
-</a>
+</a> -->
 
 <br></br>
 
